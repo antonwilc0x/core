@@ -1,0 +1,24 @@
+/*
+    This project licenses this file to you under the Unlicense.
+    See the LICENSE file in the project root for more information. 
+*/
+
+#menu_wrapper {
+    background-color: #20637c;
+}
+
+#core_logo {
+    background-image: url("../../img/logo.png");
+}
+
+body {
+    background-color: #eef0f1;
+}
+
+a {
+    color: darkblue;
+}
+
+#wrapper h1, h2, h3, h4 {
+    color: #F87F11;
+}
